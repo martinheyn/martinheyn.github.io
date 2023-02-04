@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Hans-Martin Heyn</title>
+<link>https://martinheyn.github.io/blog.html</link>
+<atom:link href="https://martinheyn.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Software Engineering for AI</description>
+<generator>quarto-1.2.335</generator>
+<lastBuildDate>Mon, 16 Jan 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/2023-01-17-spatialsample/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2023-01-17-spatialsample/index.html</link>
+  <description>{B4F502887207:/posts/2023-01-17-spatialsample/index.html}</description>
+  <category>R</category>
+  <category>spatialsample</category>
+  <category>tidymodels</category>
+  <category>R packages</category>
+  <category>geospatial data</category>
+  <guid>https://martinheyn.github.io/posts/2023-01-17-spatialsample/index.html</guid>
+  <pubDate>Mon, 16 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2023-01-17-spatialsample/map.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-12-21-shrubland/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-12-21-shrubland/index.html</link>
+  <description>{B4F502887207:/posts/2022-12-21-shrubland/index.html}</description>
+  <category>ecology</category>
+  <category>papers</category>
+  <category>remote sensing</category>
+  <category>machine learning</category>
+  <category>earth science</category>
+  <category>environmental science</category>
+  <category>shrubland</category>
+  <guid>https://martinheyn.github.io/posts/2022-12-21-shrubland/index.html</guid>
+  <pubDate>Tue, 20 Dec 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-12-21-shrubland/map.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-12-16-femc/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-12-16-femc/index.html</link>
+  <description>{B4F502887207:/posts/2022-12-16-femc/index.html}</description>
+  <category>Data science</category>
+  <category>ecology</category>
+  <category>earth science</category>
+  <guid>https://martinheyn.github.io/posts/2022-12-16-femc/index.html</guid>
+  <pubDate>Thu, 15 Dec 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-12-16-femc/forest.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-12-12-tools/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-12-12-tools/index.html</link>
+  <description>{B4F502887207:/posts/2022-12-12-tools/index.html}</description>
+  <category>R</category>
+  <category>Spatial</category>
+  <category>Data science</category>
+  <guid>https://martinheyn.github.io/posts/2022-12-12-tools/index.html</guid>
+  <pubDate>Sun, 11 Dec 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-12-12-tools/favorites.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-12-01-sf-in-packages/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-12-01-sf-in-packages/index.html</link>
+  <description>{B4F502887207:/posts/2022-12-01-sf-in-packages/index.html}</description>
+  <category>R</category>
+  <category>Tutorials</category>
+  <category>Spatial</category>
+  <category>Data science</category>
+  <guid>https://martinheyn.github.io/posts/2022-12-01-sf-in-packages/index.html</guid>
+  <pubDate>Wed, 30 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-12-01-sf-in-packages/sf.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-11-07-agb/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-11-07-agb/index.html</link>
+  <description>{B4F502887207:/posts/2022-11-07-agb/index.html}</description>
+  <category>ecology</category>
+  <category>papers</category>
+  <category>remote sensing</category>
+  <category>machine learning</category>
+  <category>earth science</category>
+  <category>AGB</category>
+  <guid>https://martinheyn.github.io/posts/2022-11-07-agb/index.html</guid>
+  <pubDate>Sun, 06 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-11-07-agb/map.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-10-04-rsample/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-10-04-rsample/index.html</link>
+  <description>{B4F502887207:/posts/2022-10-04-rsample/index.html}</description>
+  <category>R</category>
+  <category>rsample</category>
+  <category>tidymodels</category>
+  <guid>https://martinheyn.github.io/posts/2022-10-04-rsample/index.html</guid>
+  <pubDate>Mon, 03 Oct 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-10-04-rsample/splash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-08-15-last-summer/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-08-15-last-summer/index.html</link>
+  <description>{B4F502887207:/posts/2022-08-15-last-summer/index.html}</description>
+  <category>R</category>
+  <category>Internship</category>
+  <category>Quarto</category>
+  <guid>https://martinheyn.github.io/posts/2022-08-15-last-summer/index.html</guid>
+  <pubDate>Thu, 11 Aug 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-08-15-last-summer/autoplot.png" medium="image" type="image/png" height="89" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-08-11-waywiser-010-is-now-on-cran/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-08-11-waywiser-010-is-now-on-cran/index.html</link>
+  <description>{B4F502887207:/posts/2022-08-11-waywiser-010-is-now-on-cran/index.html}</description>
+  <category>R</category>
+  <category>waywiser</category>
+  <category>tidymodels</category>
+  <category>R packages</category>
+  <category>geospatial data</category>
+  <guid>https://martinheyn.github.io/posts/2022-08-11-waywiser-010-is-now-on-cran/index.html</guid>
+  <pubDate>Wed, 10 Aug 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-08-11-waywiser-010-is-now-on-cran/waywiser.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-08-10-ground-filtering/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-08-10-ground-filtering/index.html</link>
+  <description>{B4F502887207:/posts/2022-08-10-ground-filtering/index.html}</description>
+  <category>ecology</category>
+  <category>papers</category>
+  <category>remote sensing</category>
+  <category>machine learning</category>
+  <guid>https://martinheyn.github.io/posts/2022-08-10-ground-filtering/index.html</guid>
+  <pubDate>Tue, 09 Aug 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-08-10-ground-filtering/distributions.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/index.html</link>
+  <description>{B4F502887207:/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/index.html}</description>
+  <category>R</category>
+  <category>Tutorials</category>
+  <category>Quarto</category>
+  <guid>https://martinheyn.github.io/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/index.html</guid>
+  <pubDate>Thu, 04 Aug 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/elevator.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-02-18-progress-purpose-process/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-02-18-progress-purpose-process/index.html</link>
+  <description>{B4F502887207:/posts/2022-02-18-progress-purpose-process/index.html}</description>
+  <guid>https://martinheyn.github.io/posts/2022-02-18-progress-purpose-process/index.html</guid>
+  <pubDate>Thu, 17 Feb 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-02-18-progress-purpose-process/pano.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/index.html</link>
+  <description>{B4F502887207:/posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/index.html}</description>
+  <guid>https://martinheyn.github.io/posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/index.html</guid>
+  <pubDate>Thu, 13 Jan 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/fig1.png" medium="image" type="image/png" height="51" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021-09-22-automated-drat-uploads-with-github-actions/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021-09-22-automated-drat-uploads-with-github-actions/index.html</link>
+  <description>{B4F502887207:/posts/2021-09-22-automated-drat-uploads-with-github-actions/index.html}</description>
+  <category>R</category>
+  <category>Tutorials</category>
+  <category>CI</category>
+  <category>CD</category>
+  <category>GitHub Actions</category>
+  <guid>https://martinheyn.github.io/posts/2021-09-22-automated-drat-uploads-with-github-actions/index.html</guid>
+  <pubDate>Wed, 22 Sep 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/index.html</link>
+  <description>{B4F502887207:/posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/index.html}</description>
+  <guid>https://martinheyn.github.io/posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/index.html</guid>
+  <pubDate>Sun, 13 Jun 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/closer.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021-06-12-virtual-environments-talk-at-user-2021/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021-06-12-virtual-environments-talk-at-user-2021/index.html</link>
+  <description>{B4F502887207:/posts/2021-06-12-virtual-environments-talk-at-user-2021/index.html}</description>
+  <guid>https://martinheyn.github.io/posts/2021-06-12-virtual-environments-talk-at-user-2021/index.html</guid>
+  <pubDate>Fri, 11 Jun 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021-04-22-terrainr-version-040-is-now-on-cran/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021-04-22-terrainr-version-040-is-now-on-cran/index.html</link>
+  <description>{B4F502887207:/posts/2021-04-22-terrainr-version-040-is-now-on-cran/index.html}</description>
+  <guid>https://martinheyn.github.io/posts/2021-04-22-terrainr-version-040-is-now-on-cran/index.html</guid>
+  <pubDate>Wed, 21 Apr 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021/02/terrainr/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021/02/terrainr/index.html</link>
+  <description>{B4F502887207:/posts/2021/02/terrainr/index.html}</description>
+  <category>R</category>
+  <category>Data science</category>
+  <category>terrainr</category>
+  <guid>https://martinheyn.github.io/posts/2021/02/terrainr/index.html</guid>
+  <pubDate>Tue, 16 Feb 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2021/01/model-averaging/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2021/01/model-averaging/index.html</link>
+  <description>{B4F502887207:/posts/2021/01/model-averaging/index.html}</description>
+  <category>R</category>
+  <category>Data science</category>
+  <guid>https://martinheyn.github.io/posts/2021/01/model-averaging/index.html</guid>
+  <pubDate>Sun, 17 Jan 2021 23:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2021/01/model-averaging/model_avg.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2020/10/index.html}</title>
+  <dc:creator>Mike Mahoney</dc:creator>
+  <link>https://martinheyn.github.io/posts/2020/10/index.html</link>
+  <description>{B4F502887207:/posts/2020/10/index.html}</description>
+  <category>R</category>
+  <category>Twitter</category>
+  <category>phd</category>
+  <category>terrainr</category>
+  <category>beaver</category>
+  <guid>https://martinheyn.github.io/posts/2020/10/index.html</guid>
+  <pubDate>Thu, 15 Oct 2020 22:00:00 GMT</pubDate>
+  <media:content url="https://martinheyn.github.io/posts/2020/10/terrainr.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
