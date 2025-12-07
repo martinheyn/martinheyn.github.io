@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://martinheyn.github.io/papers/index.html</loc>
-    <lastmod>2025-07-27T15:48:18.710Z</lastmod>
+    <loc>https://martinheyn.github.io/index.html</loc>
+    <lastmod>2025-12-07T17:09:50.731Z</lastmod>
   </url>
   <url>
     <loc>https://martinheyn.github.io/theses/index.html</loc>
-    <lastmod>2025-07-27T15:49:02.362Z</lastmod>
+    <lastmod>2025-12-07T16:30:54.999Z</lastmod>
   </url>
   <url>
     <loc>https://martinheyn.github.io/service/index.html</loc>
-    <lastmod>2025-07-27T15:48:52.471Z</lastmod>
+    <lastmod>2025-12-07T16:34:49.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martinheyn.github.io/papers/index.html</loc>
+    <lastmod>2025-12-07T17:08:39.587Z</lastmod>
   </url>
   <url>
     <loc>https://martinheyn.github.io/talks/index.html</loc>
-    <lastmod>2025-07-27T07:15:53.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martinheyn.github.io/index.html</loc>
-    <lastmod>2025-07-27T15:49:28.629Z</lastmod>
+    <lastmod>2025-12-07T16:00:33.344Z</lastmod>
   </url>
 </urlset>
