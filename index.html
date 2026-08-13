@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Hans-Martin Heyn</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -34,14 +40,13 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-980b7731fb1d77f0b19a7f8959812838.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-97cbdf4c33b0c1d59c3c8504f205f74a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,10 +79,10 @@ ul.task-list li input[type="checkbox"] {
 document.addEventListener('DOMContentLoaded', function () {
 cookieconsent.run({
   "notice_banner_type":"simple",
-  "consent_type":"implied",
+  "consent_type":"express",
   "palette":"light",
   "language":"en",
-  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "page_load_consent_levels":["strictly-necessary"],
   "notice_banner_reject_button_hide":false,
   "preferences_center_close_button_hide":false,
   "website_name":""
@@ -159,9 +164,9 @@ cookieconsent.run({
 <div class="column-page">
 <section id="brief-biography" class="level2">
 <h2 data-anchor-id="brief-biography">Brief biography</h2>
-<p>I’m a senior lecturer at the <a href="https://www.gu.se/en/computer-science-engineering">Computer Science and Engineering Department</a> of the University of Gothenburg and Chalmers University of Technology in Sweden.<br> My research concentrates around Software Engineering for AI and distributed cyber-physical systems. I’m especially interested in studying how we can set requirements for training data and data at runtime based on prior knowledge we have about the problem domain. A research direction that triggered my interest for achieving this aim is causal modelling and information entropy.<br> I’m teaching the courses <strong>DIT357: Distributed Systems</strong> and <strong>DAT550 / DIT978: Advanced Software Engineering for AI/ML-Enabled Systems</strong>. I’m also giving guest lectures in <strong>DIT633: Development of Embedded and Real-Time Systems</strong>.</p>
-<p>On this site I keep a list of <a href="papers">my publications</a>, <a href="cv.pdf">my CV</a>, a list of <a href="service">my services</a> and <a href="theses">a list of theses I supervise</a>. Feel free to contact me if you have questions.</p>
-<p>I am on parental leave until April 2026 which is why I do not offer regular office hours at the moment. If you have a question or request regarding my research or teaching, please send me an e-mail. I will answer as soon as possible given that my little daughter allows me a moment of time :).</p>
+<p>I’m a senior lecturer at the <a href="https://www.gu.se/en/computer-science-engineering">Computer Science and Engineering Department</a> of the University of Gothenburg and Chalmers University of Technology in Sweden. Currently, I’m also serving as the Director of Studies for the Master’s program in Software Engineering. <br> My research concentrates around Software Engineering for AI, distributed cyber-physical systems, and environmental informatics. I’m especially interested in studying how to find requirements for training data and data at runtime based on prior knowledge about the problem domain. A research direction that triggered my interest for achieving this aim is causal modelling, information theory, and transfer entropy.<br> I’m teaching the courses <strong>DIT357: Distributed Systems</strong> and <strong>DAT550 / DIT978: Advanced Software Engineering for AI/ML-Enabled Systems</strong>. I’m also giving guest lectures in <strong>DIT633: Development of Embedded and Real-Time Systems</strong> and <strong>NGEO316: AI for Earth and Environmental Sciences</strong>.<br></p>
+<p>On this site I keep a list of <a href="papers">my publications</a>, <a href="cv.pdf">my CV</a>, a list of <a href="service">my services</a> and <a href="theses">a list of theses I supervise</a>.<br></p>
+<p>If you have a question or request regarding my research or teaching, please send me an e-mail. I will answer as soon as possible given that my little daughter allows me a moment of time :).</p>
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
@@ -176,6 +181,7 @@ B.Sc., Electrical Engineering, Information Technology and Computer Engineering |
 </section>
 <section id="selected-publications" class="level2">
 <h2 data-anchor-id="selected-publications">Selected Publications</h2>
+<p><strong>A framework for causal inference applied to solar radiation and temperature effects on measured levels of gaseous elemental mercury in seawater.</strong> HM Heyn, M Nerentorp Mastromonaco. 2026. Atmospheric Chemistry and Physics 26(7). <a href="https://doi.org/10.5194/acp-26-4785-2026">https://doi.org/10.5194/acp-26-4785-2026</a></p>
 <p><strong>Causal models for specifying requirements in industrial ML-based software: A case study.</strong> HM Heyn, Y Mao, R Weiß, E Knauss. 2025. Journal of Software and Systems (JSS). <a href="https://doi.org/10.1016/j.jss.2025.112691">https://doi.org/10.1016/j.jss.2025.112691</a></p>
 <p><strong>An empirical investigation of challenges of specifying training data and runtime monitor requirements for critical machine learning software and their relationship to architecture decisions.</strong> HM Heyn, E Knauss, I Malleswaran, S Dinakaran, Requirements Engineering. 2024. Springer Requirement Engineering Journal, 1-24. <a href="https://doi.org/10.1007/s00766-024-00415-4">https://doi.org/10.1007/s00766-024-00415-4</a>.</p>
 <p><strong>Identifying and managing data quality requirements: a design science study in the field of automated driving.</strong> SK Pradhan, HM Heyn, E Knauss. 2023. Springer Software Quality Journal, 1-48. <a href="https://doi.org/10.1007/s11219-023-09622-8">https://doi.org/10.1007/s11219-023-09622-8</a></p>
